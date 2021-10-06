@@ -4,8 +4,19 @@
   "description": "testing with mocha framework",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "mocha test/**/*_test.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neuroplastic1/Rooster-Regulation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Neuroplastic1/Rooster-Regulation/issues"
+  },
+  "homepage": "https://github.com/Neuroplastic1/Rooster-Regulation#readme",
+  "devDependencies": {
+    "mocha": "^9.1.2"
+  }
 }
