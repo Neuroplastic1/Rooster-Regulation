@@ -1,0 +1,11 @@
+{
+  "name": "rooster-regulation",
+  "version": "1.0.0",
+  "description": "testing with mocha framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
